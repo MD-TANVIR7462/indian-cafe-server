@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "chefName": "Ayesha Sharma",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 50,
+    "likes": 2000,
+    "chefPicture": "https://i.ibb.co/zRwy91M/butter-chicken-42346-2.webp",
+    "recipes": [
+      {
+        "recipeName": "Butter Chicken",
+        "recipe_img": "https://i.ibb.co/N7LPrQB/mangalorean-chicken-curry-48259-2.jpg",
+        "ingredients": [
+          "chicken",
+          "butter",
+          "tomatoes",
+          "cream",
+          "spices"
+        ],
+        "cookingMethod": "1. Marinate chicken with yogurt and spices. 2. Grill chicken. 3. Make gravy with butter, onions, tomatoes, and spices. 4. Add grilled chicken to gravy. 5. Finish with cream.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Palak Paneer",
+        "recipe_img": "https://i.ibb.co/bzqNrnf/slow-cooked-pork-shoulder-curry-109127-2.jpg",
+        "ingredients": [
+          "spinach",
+          "paneer",
+          "onions",
+          "tomatoes",
+          "spices"
+        ],
+        "cookingMethod": "1. Blanch spinach and puree. 2. Fry paneer. 3. Make gravy with onions, tomatoes, and spices. 4. Add spinach puree and paneer. 5. Simmer and serve.",
+        "rating": 4.2
+      },
+      {
+        "recipeName": "Chole Bhature",
+        "recipe_img": "https://i.ibb.co/KLT5zvH/indian-style-lamb-and-eggplant-pizzas-14833-2.jpg",
+        "ingredients": [
+          "chickpeas",
+          "flour",
+          "spices",
+          "onions",
+          "tomatoes"
+        ],
+        "cookingMethod": "1. Soak chickpeas overnight. 2. Cook chickpeas with spices. 3. Make dough with flour and water. 4. Roll out and fry bhature. 5. Serve with chole, onions, and tomatoes.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefName": "Ravi Gupta",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 75,
+    "likes": 3000,
+    "chefPicture": "https://i.ibb.co/m8sKXPW/user-m.png",
+    "recipes": [
+      {
+        "recipeName": "Paneer Tikka Masala",
+        "recipe_img": "https://i.ibb.co/ZhNWMcC/butter-chicken-48618-2.jpg",
+        "ingredients": [
+          "paneer",
+          "bell peppers",
+          "onions",
+          "tomatoes",
+          "spices"
+        ],
+        "cookingMethod": "1. Marinate paneer and vegetables with yogurt and spices. 2. Grill paneer and vegetables. 3. Make gravy with onions, tomatoes, and spices. 4. Add grilled paneer and vegetables to gravy. 5. Serve with rice or naan.",
+        "rating": 4.3
+      },
+      {
+        "recipeName": "Tandoori Chicken",
+        "recipe_img": "https://i.ibb.co/N7LPrQB/mangalorean-chicken-curry-48259-2.jpg",
+        "ingredients": [
+          "chicken",
+          "yogurt",
+          "spices",
+          "lemon",
+          "garlic"
+        ],
+        "cookingMethod": "1. Marinate chicken with yogurt and spices. 2. Cook rice separately. 3. Layer rice and chicken in a pot. 4. Cook on low heat. 5. Serve with raita.",
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Biryani",
+        "recipe_img": "https://i.ibb.co/Jmysm45/spiced-saffron-and-cashew-rice-49071-2.jpg",
+        "ingredients": [
+          "rice",
+          "chicken",
+          "spices",
+          "onions",
+          "yogurt"
+        ],
+        "cookingMethod": "1. Marinate chicken with yogurt and spices. 2. Cook rice separately. 3. Layer rice and chicken in a pot. 4. Cook on low heat. 5. Serve with raita.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefName": "Priya Singh",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 40,
+    "likes": 1500,
+    "chefPicture": "https://i.ibb.co/Kwd67vS/user.png",
+    "recipes": [
+      {
+        "recipeName": "Samosa",
+        "recipe_img": "https://i.ibb.co/3rtpZFD/indian-samosa-pie-with-minted-yogurt-30908-2.jpg",
+        "ingredients": [
+          "potatoes",
+          "peas",
+          "spices",
+          "flour",
+          "oil"
+        ],
+        "cookingMethod": "1. Boil potatoes and mash. 2. Fry peas with spices. 3. Mix peas and potatoes. 4. Make dough with flour and water. 5. Roll out and fill with potato-pea mixture. 6. Fry and serve with chutney.",
+        "rating": 4.0
+      },
+      {
+        "recipeName": "Daal Makhani",
+        "recipe_img": "https://i.ibb.co/HhWXPHg/coconut-fish-noodle-soup.jpg",
+        "ingredients": [
+          "black lentils",
+          "red kidney beans",
+          "cream",
+          "spices",
+          "butter"
+        ],
+        "cookingMethod": "1. Soak lentils and beans overnight. 2. Cook lentils and beans with spices. 3. Finish with cream and butter. 4. Serve with rice or naan.",
+        "rating": 4.4
+      },
+      {
+        "recipeName": "Matar Paneer",
+        "recipe_img": "https://i.ibb.co/SrGG9TN/chiang-mai-hung-lay-pork-curry-109650-2.jpg",
+        "ingredients": [
+          "paneer",
+          "green peas",
+          "tomatoes",
+          "spices",
+          "onions"
+        ],
+        "cookingMethod": "1. Fry paneer. 2. Make gravy with onions, tomatoes, and spices. 3. Add green peas and paneer to gravy. 4. Simmer and serve with rice or naan.",
+        "rating": 4.1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefName": "Virat Kohli",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 60,
+    "likes": 3500,
+    "chefPicture": "https://i.ibb.co/X5Zdcgp/man.png",
+    "recipes": [
+      {
+        "recipeName": "Aloo Gobi",
+        "recipe_img": "https://i.ibb.co/hBNkX4B/indian-aloo-gobi-81130-2.jpg",
+        "ingredients": [
+          "potatoes",
+          "cauliflower",
+          "spices",
+          "tomatoes",
+          "onions"
+        ],
+        "cookingMethod": "1. Fry potatoes and cauliflower with spices. 2. Make gravy with onions, tomatoes, and spices. 3. Add fried vegetables to gravy. 4. Simmer and serve with rice or naan.",
+        "rating": 4.2
+      },
+      {
+        "recipeName": "Butter Chicken",
+        "recipe_img": "https://i.ibb.co/N7LPrQB/mangalorean-chicken-curry-48259-2.jpg",
+        "ingredients": [
+          "chicken",
+          "tomatoes",
+          "cream",
+          "spices",
+          "butter"
+        ],
+        "cookingMethod": "1. Marinate chicken with spices and yogurt. 2. Grill in tandoor or oven. 3. Make gravy with tomatoes, spices, and cream. 4. Finish with butter. 5. Add grilled chicken to gravy. 6. Serve with rice or naan.",
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Aloo Paratha",
+        "recipe_img": "https://i.ibb.co/YpvHbfH/indian-spiced-potatoes-with-fried-egg-15711-2.jpg",
+        "ingredients": [
+          "potatoes",
+          "flour",
+          "spices",
+          "butter",
+          "oil"
+        ],
+        "cookingMethod": "1. Boil potatoes and mash. 2. Mix mashed potatoes with flour and spices. 3. Make dough and roll out into circles. 4. Cook on griddle with butter and oil. 5. Serve with yogurt or pickle.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": "Ashis Bhatia",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 100,
+    "likes": 5000,
+    "chefPicture": "https://i.ibb.co/vmbxs57/356-3562377-personal-user.png",
+    "recipes": [
+      {
+        "recipeName": "Chana Masala",
+        "recipe_img": "https://i.ibb.co/tbvrGFX/spiced-chicken-and-eggplant-skewers-55627-2.jpg",
+        "ingredients": [
+          "chickpeas",
+          "tomatoes",
+          "onions",
+          "spices",
+          "ginger"
+        ],
+        "cookingMethod": "1. Soak chickpeas overnight. 2. Cook chickpeas with spices. 3. Make gravy with onions, tomatoes, and spices. 4. Finish with ginger. 5. Serve with rice or naan.",
+        "rating": 4.5
+      },
+      {
+        "recipeName": "Saag Chicken",
+        "recipe_img": "https://i.ibb.co/qDFg4Ch/indian-lamb-shank-pot-roast-45799-2.jpg",
+        "ingredients": [
+          "chicken",
+          "spinach",
+          "onions",
+          "spices",
+          "cream"
+        ],
+        "cookingMethod": "1. Marinate chicken with spices. 2. Fry chicken. 3. Blanch spinach and puree. 4. Make gravy with onions and spices. 5. Add spinach puree and chicken to gravy.",
+        "rating": 4.6
+      },
+      {
+        "recipeName": "Dosa",
+        "recipe_img": "https://i.ibb.co/PZPk77d/mushroom-curry-44613-2.jpg",
+        "ingredients": [
+          "rice",
+          "lentils",
+          "spices",
+          "potatoes",
+          "chutney"
+        ],
+        "cookingMethod": "1. Soak rice and lentils overnight. 2. Grind into batter with spices. 3. Ferment batter overnight. 4. Make dosa on griddle with potatoes. 5. Serve with chutney.",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Vikram Patel",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 100,
+    "likes": 5000,
+    "chefPicture": "https://i.ibb.co/yV27TZb/man-1.png",
+    "recipes": [
+      {
+        "recipeName": "Palak Paneer",
+        "recipe_img": "https://i.ibb.co/HxN09LC/indian-spiced-cauliflower-with-carrot-and-coconut-salad-86174-2.jpg",
+        "ingredients": [
+          "paneer",
+          "spinach",
+          "onions",
+          "spices",
+          "cream"
+        ],
+        "cookingMethod": "1. Blanch spinach and puree. 2. Fry paneer. 3. Make gravy with onions, spices, and cream. 4. Add spinach puree and paneer to gravy. 5. Serve with rice or naan.",
+        "rating": 4.4
+      },
+      {
+        "recipeName": "Dosa",
+        "recipe_img": "https://i.ibb.co/vJrN68H/tandoori-cauliflower-my-way-48262-1.jpg",
+        "ingredients": [
+          "rice",
+          "lentils",
+          "spices",
+          "potatoes",
+          "chutney"
+        ],
+        "cookingMethod": "1. Soak rice and lentils overnight. 2. Grind into batter with spices. 3. Ferment batter overnight. 4. Make dosa on griddle with potatoes. 5. Serve with chutney.",
+        "rating": 4.2
+      },
+      {
+        "recipeName": "Hyderabadi Biryani",
+        "recipe_img": "https://i.ibb.co/zbFJw1x/turmeric-boiled-egg-curry-49068-2.jpg",
+        "ingredients": [
+          "rice",
+          "chicken",
+          "spices",
+          "yogurt",
+          "onions"
+        ],
+        "cookingMethod": "1. Blanch spinach and puree. 2. Fry paneer. 3. Make gravy with onions, spices, and cream. 4. Add spinach puree and paneer to gravy. 5. Serve with rice or naan.",
+        "rating": 4.4
+      }
+    ]
+  }
+]
