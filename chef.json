@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "chefName": "Ayesha Sharma",
+    "chefName": "Arun Sharma",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
     "likes": 2000,
-    "chefPicture": "https://i.ibb.co/zRwy91M/butter-chicken-42346-2.webp",
+    "chefPicture": "https://i.ibb.co/wc7ntL6/a5233-mz574.jpg",
     "recipes": [
       {
         "recipeName": "Butter Chicken",
@@ -54,7 +54,7 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 75,
     "likes": 3000,
-    "chefPicture": "https://i.ibb.co/m8sKXPW/user-m.png",
+    "chefPicture": "https://i.ibb.co/3RtdVZk/aoo6h-3evq7.jpg",
     "recipes": [
       {
         "recipeName": "Paneer Tikka Masala",
@@ -103,7 +103,7 @@
     "yearsOfExperience": 8,
     "numberOfRecipes": 40,
     "likes": 1500,
-    "chefPicture": "https://i.ibb.co/Kwd67vS/user.png",
+    "chefPicture": "https://i.ibb.co/1dj6dB3/a6qyc-0qh87.jpg",
     "recipes": [
       {
         "recipeName": "Samosa",
@@ -152,7 +152,7 @@
     "yearsOfExperience": 15,
     "numberOfRecipes": 60,
     "likes": 3500,
-    "chefPicture": "https://i.ibb.co/X5Zdcgp/man.png",
+    "chefPicture": "https://i.ibb.co/C1pBzvx/aksbr-ghvxs.jpg",
     "recipes": [
       {
         "recipeName": "Aloo Gobi",
@@ -201,7 +201,7 @@
     "yearsOfExperience": 20,
     "numberOfRecipes": 100,
     "likes": 5000,
-    "chefPicture": "https://i.ibb.co/vmbxs57/356-3562377-personal-user.png",
+    "chefPicture": "https://i.ibb.co/w4RYCnf/axs9l-k1tz2.jpg",
     "recipes": [
       {
         "recipeName": "Chana Masala",
@@ -250,7 +250,7 @@
     "yearsOfExperience": 20,
     "numberOfRecipes": 100,
     "likes": 5000,
-    "chefPicture": "https://i.ibb.co/yV27TZb/man-1.png",
+    "chefPicture": "https://i.ibb.co/zhQYfG7/awppw-gvgcx.jpg",
     "recipes": [
       {
         "recipeName": "Palak Paneer",
